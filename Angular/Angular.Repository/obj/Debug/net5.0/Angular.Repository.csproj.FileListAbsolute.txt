@@ -1,0 +1,14 @@
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\bin\Debug\net5.0\Angular.Repository.deps.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\bin\Debug\net5.0\Angular.Repository.runtimeconfig.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\bin\Debug\net5.0\Angular.Repository.runtimeconfig.dev.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\bin\Debug\net5.0\Angular.Repository.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\bin\Debug\net5.0\ref\Angular.Repository.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\bin\Debug\net5.0\Angular.Repository.pdb
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\Angular.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\Angular.Repository.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\Angular.Repository.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\Angular.Repository.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\Angular.Repository.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\ref\Angular.Repository.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\Angular.Repository.pdb
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Repository\obj\Debug\net5.0\Angular.Repository.genruntimeconfig.cache

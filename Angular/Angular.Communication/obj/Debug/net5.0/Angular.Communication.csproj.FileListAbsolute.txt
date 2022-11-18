@@ -1,0 +1,14 @@
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\bin\Debug\net5.0\Angular.Communication.deps.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\bin\Debug\net5.0\Angular.Communication.runtimeconfig.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\bin\Debug\net5.0\Angular.Communication.runtimeconfig.dev.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\bin\Debug\net5.0\Angular.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\bin\Debug\net5.0\ref\Angular.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\bin\Debug\net5.0\Angular.Communication.pdb
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\Angular.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\Angular.Communication.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\Angular.Communication.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\Angular.Communication.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\Angular.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\ref\Angular.Communication.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\Angular.Communication.pdb
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Communication\obj\Debug\net5.0\Angular.Communication.genruntimeconfig.cache

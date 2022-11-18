@@ -1,0 +1,15 @@
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\bin\Debug\net5.0\Angular.Models.deps.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\bin\Debug\net5.0\Angular.Models.runtimeconfig.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\bin\Debug\net5.0\Angular.Models.runtimeconfig.dev.json
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\bin\Debug\net5.0\Angular.Models.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\bin\Debug\net5.0\ref\Angular.Models.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\bin\Debug\net5.0\Angular.Models.pdb
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.AssemblyInfoInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.AssemblyInfo.cs
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.csproj.CoreCompileInputs.cache
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\ref\Angular.Models.dll
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.pdb
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.genruntimeconfig.cache
+C:\Users\santh\OneDrive\Desktop\RARBACKEND\Angular\Angular.Models\obj\Debug\net5.0\Angular.Models.csproj.AssemblyReference.cache

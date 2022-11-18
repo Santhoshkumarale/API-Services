@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.MVC", "Angular.MVC\Angular.MVC.csproj", "{452030EA-D49F-4E62-8EC8-E2BF8F46834C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Repository", "Angular.Repository\Angular.Repository.csproj", "{BC28FE06-A35B-402E-B069-57A5F4CA41DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Business", "Angular.Business\Angular.Business.csproj", "{547C3FC2-371C-49BC-AECC-473E8ACFE134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Models", "Angular.Models\Angular.Models.csproj", "{2EA5D593-6211-4542-A5A3-37949B8B282C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Communication", "Angular.Communication\Angular.Communication.csproj", "{AA0AEE9C-0CE0-4FE2-BF06-665ADEFA4DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Utilities", "Angular.Utilities\Angular.Utilities.csproj", "{5E85626E-E364-468B-A5B2-3CD6A607F348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.API", "Angular.API\Angular.API.csproj", "{D6B473DC-E4D3-457E-8F6A-9F72D192C0E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452030EA-D49F-4E62-8EC8-E2BF8F46834C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452030EA-D49F-4E62-8EC8-E2BF8F46834C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452030EA-D49F-4E62-8EC8-E2BF8F46834C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452030EA-D49F-4E62-8EC8-E2BF8F46834C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC28FE06-A35B-402E-B069-57A5F4CA41DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC28FE06-A35B-402E-B069-57A5F4CA41DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC28FE06-A35B-402E-B069-57A5F4CA41DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC28FE06-A35B-402E-B069-57A5F4CA41DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547C3FC2-371C-49BC-AECC-473E8ACFE134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547C3FC2-371C-49BC-AECC-473E8ACFE134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547C3FC2-371C-49BC-AECC-473E8ACFE134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547C3FC2-371C-49BC-AECC-473E8ACFE134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA5D593-6211-4542-A5A3-37949B8B282C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA5D593-6211-4542-A5A3-37949B8B282C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA5D593-6211-4542-A5A3-37949B8B282C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA5D593-6211-4542-A5A3-37949B8B282C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0AEE9C-0CE0-4FE2-BF06-665ADEFA4DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0AEE9C-0CE0-4FE2-BF06-665ADEFA4DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0AEE9C-0CE0-4FE2-BF06-665ADEFA4DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0AEE9C-0CE0-4FE2-BF06-665ADEFA4DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E85626E-E364-468B-A5B2-3CD6A607F348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E85626E-E364-468B-A5B2-3CD6A607F348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E85626E-E364-468B-A5B2-3CD6A607F348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E85626E-E364-468B-A5B2-3CD6A607F348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B473DC-E4D3-457E-8F6A-9F72D192C0E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B473DC-E4D3-457E-8F6A-9F72D192C0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B473DC-E4D3-457E-8F6A-9F72D192C0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B473DC-E4D3-457E-8F6A-9F72D192C0E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14BA6C7-C375-4724-B775-3022C84FF520}
+	EndGlobalSection
+EndGlobal
