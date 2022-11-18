@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj": {}
+    "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj",
         "projectName": "Angular.Repository",
-        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj",
         "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\obj\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",

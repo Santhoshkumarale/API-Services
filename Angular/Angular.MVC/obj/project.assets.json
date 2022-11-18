@@ -7323,11 +7323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.MVC\\Angular.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.MVC\\Angular.MVC.csproj",
       "projectName": "Angular.MVC",
-      "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.MVC\\Angular.MVC.csproj",
+      "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.MVC\\Angular.MVC.csproj",
       "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.MVC\\obj\\",
+      "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7344,20 +7344,20 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Business\\Angular.Business.csproj": {
-              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Business\\Angular.Business.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Business\\Angular.Business.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Business\\Angular.Business.csproj"
             },
-            "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Communication\\Angular.Communication.csproj": {
-              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Communication\\Angular.Communication.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Communication\\Angular.Communication.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Communication\\Angular.Communication.csproj"
             },
-            "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj": {
-              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj"
             },
-            "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
-              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj"
             },
-            "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Utilities\\Angular.Utilities.csproj": {
-              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Utilities\\Angular.Utilities.csproj"
+            "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Utilities\\Angular.Utilities.csproj": {
+              "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Utilities\\Angular.Utilities.csproj"
             }
           }
         }

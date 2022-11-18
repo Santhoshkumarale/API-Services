@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Communication\\Angular.Communication.csproj",
+      "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Communication\\Angular.Communication.csproj",
       "projectName": "Angular.Communication",
-      "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Communication\\Angular.Communication.csproj",
+      "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Communication\\Angular.Communication.csproj",
       "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Communication\\obj\\",
+      "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Communication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",

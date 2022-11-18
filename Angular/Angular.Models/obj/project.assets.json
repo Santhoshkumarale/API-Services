@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj",
+      "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj",
       "projectName": "Angular.Models",
-      "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj",
+      "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj",
       "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\obj\\",
+      "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",

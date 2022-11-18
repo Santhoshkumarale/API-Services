@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Business\\Angular.Business.csproj": {}
+    "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Business\\Angular.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Business\\Angular.Business.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Business\\Angular.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Business\\Angular.Business.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Business\\Angular.Business.csproj",
         "projectName": "Angular.Business",
-        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Business\\Angular.Business.csproj",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Business\\Angular.Business.csproj",
         "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Business\\obj\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj": {
-                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj"
               },
-              "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
-                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj",
         "projectName": "Angular.Models",
-        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\Angular.Models.csproj",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\Angular.Models.csproj",
         "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Models\\obj\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -159,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj",
         "projectName": "Angular.Repository",
-        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\Angular.Repository.csproj",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\Angular.Repository.csproj",
         "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\API-Services\\Angular\\Angular.Repository\\obj\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\AngularServices\\Angular\\Angular.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
